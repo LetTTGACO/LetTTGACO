@@ -4,7 +4,7 @@ a self-taught passionate Frontend developer from China.
 
 ### About me 
 
-- 💼 Frontend Engineer at Mingyuanyun in ShenZhen, China 🇨🇳
+- 💼 Frontend Engineer at SHEIN in GuangZhou, China 🇨🇳
 
 ![LetTTGACO's github view count](https://komarev.com/ghpvc/?username=LetTTGACO) ![stars](https://img.shields.io/github/stars/LetTTGACO?style=social) ![followers](https://img.shields.io/github/followers/LetTTGACO?color=%23ff4a4a&logoColor=%23fff&style=plastic)
 
